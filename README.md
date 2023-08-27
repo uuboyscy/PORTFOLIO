@@ -3,6 +3,7 @@
  - [HTML introduction](https://github.com/uuboyscy/course-html)
  - [Python Web Crawler](https://github.com/uuboyscy/course-PyETL)
  - [Python Web Application (Flask)](https://github.com/uuboyscy/flask_course)
+ - [Python Datamining](https://github.com/uuboyscy/course-datamining)
  - [Online Course](https://www.tibame.com/teacher/uuboyscy)
 2. Container Quick Start
  - [Scripts](https://github.com/uuboyscy/tool-installation)
